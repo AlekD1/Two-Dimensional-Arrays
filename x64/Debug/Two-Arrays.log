@@ -1,0 +1,5 @@
+﻿  Two-Arrays.cpp
+F:\CApplication\Two-Arrays\Two-Arrays.cpp(65,18): warning C4101: j: неиспользованная локальная переменная
+F:\CApplication\Two-Arrays\Two-Arrays.cpp(100,26): warning C4101: mmin: неиспользованная локальная переменная
+F:\CApplication\Two-Arrays\Two-Arrays.cpp(100,17): warning C4101: temp: неиспользованная локальная переменная
+  Two-Arrays.vcxproj -> F:\CApplication\Two-Arrays\x64\Debug\Two-Arrays.exe
